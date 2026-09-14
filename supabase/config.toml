@@ -1,0 +1,5 @@
+[functions.request-resume-otp]
+verify_jwt = false
+
+[functions.resume-download]
+verify_jwt = false
